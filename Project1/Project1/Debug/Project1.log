@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\USLUGIDIR\source\repos\Project1\Project1\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\USLUGIDIR\source\repos\Project1\Project1\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\USLUGIDIR\source\repos\Project1\Project1\Source.cpp(17,16): error C2677: бинарный "+": не найден глобальный оператор, принимающий тип "std::string" (или приемлемое преобразование отсутствует)
+C:\Users\USLUGIDIR\source\repos\Project1\Project1\Source.cpp(19,23): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\USLUGIDIR\source\repos\Project1\Project1\Source.cpp(21,16): error C2677: бинарный "+": не найден глобальный оператор, принимающий тип "std::string" (или приемлемое преобразование отсутствует)
+C:\Users\USLUGIDIR\source\repos\Project1\Project1\Source.cpp(23,23): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\USLUGIDIR\source\repos\Project1\Project1\Source.cpp(25,16): error C2677: бинарный "+": не найден глобальный оператор, принимающий тип "std::string" (или приемлемое преобразование отсутствует)
